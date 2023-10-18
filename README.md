@@ -16,7 +16,7 @@ How to send messages to yourself on Whatsapp using the esp32
 
 ##### Steps 
 
-1. I got the whats app set by texting callmebot "I allow callmebot to send me messages"
+1. I got WhatsApp set up by texting callmebot "I allow callmebot to send me messages"
 2. This then gave me an API key for my phone number
 3. I then got the code from the website listed above 
 4. I applied the changes that were needed to the ssid,wifipass,apikey, and my phone number to the script 
