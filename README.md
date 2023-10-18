@@ -6,7 +6,7 @@ How to send messages to yourself on Whatsapp using the esp32
 
 ### Equipment
 
-1.ESP32
+1. ESP32
 2. Phone number
 3. Whatsapp
 
