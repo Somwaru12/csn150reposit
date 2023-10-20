@@ -5,5 +5,13 @@ Making an ESP32 into a router
 . ESP32
 . Micro USB Cable
 #### Documentation
+. (https://www.youtube.com/watch?v=BP1Dz66faf4)
+. (https://github.com/martin-ger/esp32_nat_router)
 ##### Steps
+. I would first download the Flash tool and the firmware for the ESP32
+. You run the Flash tool and input the correct information
+. You now input the firmware to the Flash tool 
+. Upload it to the ESP using the flash tool once uploaded unplug and reconnect the ESP, You should now have a natesp32router
+. You can configure settings at 192.168.4.1
 ###### Problems
+I encountered an issue where the Flash tool would not upload to the esp. I don't know how I fixed it but i tried it again at school and it worked.   
